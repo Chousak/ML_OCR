@@ -8,8 +8,8 @@ The ML-OCR model is run on CiRA core platform
 3.Dowwload ML-OCR programming flow(.npg) 
   ML_OCR_Flow.npg 
 4.Dowwload ML model weight
-  Charector detection(1st layer)
-  Charactor classification(2nd layer) 
+  Character detection(1st layer)
+  Character classification(2nd layer) 
 ########################################
 #CiRA Tutorial
   --> http://tinyurl.com/cira-educations
