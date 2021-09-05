@@ -1,4 +1,5 @@
 # ML_OCR
+########################################
 The ML-OCR model is run on CiRA core platform 
 1.Install CiRA core software, Recommended Windows10  
   --> https://git.cira-lab.com/cira/cira-core-windows
@@ -10,5 +11,5 @@ The ML-OCR model is run on CiRA core platform
   Charector detection(1st layer)
   Charactor classification(2nd layer) 
 ########################################
-CiRA Tutorial
+#CiRA Tutorial
   --> http://tinyurl.com/cira-educations
